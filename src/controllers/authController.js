@@ -52,4 +52,42 @@ const register = async (req, res) => {
   });
 };
 
-module.exports = { register, generateToken };
+const login = async (req, res) => {
+  const { email, password } = req.body;
+
+  if (!email) {
+    return res.status(400).json({ message: "Enter a valid email" });
+  }
+
+  if (!password) {
+    return res.status(400).json({ message: "Enter your password" });
+  }
+
+  const user = await User.findOne({ email: email.toLowerCase() }).select(
+    "+passwordHash",
+  );
+
+  if (!user) {
+    return res.status(401).json({ message: "Invalid email or password" });
+  }
+
+  const isPasswordValid = await bcrypt.compare(password, user.passwordHash);
+
+  if (!isPasswordValid) {
+    return res.status(401).json({ message: "Invalid email or password" });
+  }
+
+  const token = generateToken(user._id);
+
+  res.status(200).json({
+    token,
+    user: {
+      _id: user._id,
+      name: user.name,
+      email: user.email,
+      avatarUrl: user.avatarUrl,
+    },
+  });
+};
+
+module.exports = { register, login, generateToken };
