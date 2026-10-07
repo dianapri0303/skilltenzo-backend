@@ -81,4 +81,4 @@ Server runs on `http://localhost:3000` by default.
 
 ## Live deployment
 
-Backend: _(link added after deployment)_
+Backend: https://skilltenzo-backend.onrender.com
