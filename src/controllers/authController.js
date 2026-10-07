@@ -90,4 +90,21 @@ const login = async (req, res) => {
   });
 };
 
-module.exports = { register, login, generateToken };
+const logout = async (req, res) => {
+  res.clearCookie("token");
+  res.status(200).json({ message: "Logged out successfully" });
+};
+
+const refreshSession = async (req, res) => {
+  const user = req.user;
+  const token = generateToken(user._id);
+
+  res.status(200).json({
+    token,
+    name: user.name,
+    avatarUrl: user.avatarUrl,
+    cartCount: user.cart.length,
+  });
+};
+
+module.exports = { register, login, generateToken, logout, refreshSession };
