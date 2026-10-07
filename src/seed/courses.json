@@ -1,0 +1,1902 @@
+[
+  {
+    "_id": {
+      "$oid": "68a1c0de1234abcd56700001"
+    },
+    "slug": "novel-writing-foundations-from-idea-to-first-draft",
+    "title": "Novel Writing Foundations: From Idea to First Draft",
+    "shortDescription": "Build a full first draft in twelve weeks using outlining, scene planning, and a daily writing routine designed for working adults.",
+    "coverImageUrl": "https://ftp.goit.study/img/skilltenzo/68a1c0de1234abcd56700001.webp",
+    "category": {
+      "$oid": "6659a1000000000000000001"
+    },
+    "level": "Beginner",
+    "language": "English",
+    "durationMinutes": 720,
+    "price": 89,
+    "instructor": {
+      "name": "Damian Roman",
+      "avatarUrl": "https://ftp.goit.study/img/harmoniq/users/6881563901add19ee16fcff5.webp",
+      "bio": "Award-winning novelist and writing coach with 12 years of experience leading workshops for emerging fiction authors."
+    },
+    "whatYoullLearn": [
+      "Develop a story premise that sustains an entire novel",
+      "Outline using a three-act and beat-sheet structure",
+      "Write compelling protagonists with clear internal conflicts",
+      "Plan and draft individual scenes with purpose",
+      "Establish a daily writing routine you can maintain",
+      "Diagnose and revise sagging middle chapters"
+    ],
+    "ratingAverage": 4.8,
+    "studentsCount": 2147,
+    "createdAt": {
+      "$date": "2026-02-03T07:53:23.000Z"
+    },
+    "updatedAt": {
+      "$date": "2026-02-10T07:53:23.000Z"
+    },
+    "feedbacksId": []
+  },
+  {
+    "_id": {
+      "$oid": "68a1c0de1234abcd56700002"
+    },
+    "slug": "short-story-mastery-for-emerging-writers",
+    "title": "Short Story Mastery for Emerging Writers",
+    "shortDescription": "Write, revise, and polish three publishable short stories with structured feedback and a workshop-style critique framework.",
+    "coverImageUrl": "https://ftp.goit.study/img/skilltenzo/68a1c0de1234abcd56700002.webp",
+    "category": {
+      "$oid": "6659a1000000000000000001"
+    },
+    "level": "Intermediate",
+    "language": "English",
+    "durationMinutes": 540,
+    "price": 69,
+    "instructor": {
+      "name": "Eva Phillips",
+      "avatarUrl": "https://ftp.goit.study/img/harmoniq/users/6881563901add19ee16fd009.webp",
+      "bio": "Bestselling memoirist and personal-essay coach with a graduate degree in creative nonfiction."
+    },
+    "whatYoullLearn": [
+      "Craft a compelling opening within the first 250 words",
+      "Build short-form character arcs that resonate",
+      "Use point of view as a deliberate creative choice",
+      "Apply scene-by-scene revision techniques",
+      "Submit stories to literary magazines confidently",
+      "Receive and integrate critique without losing voice"
+    ],
+    "ratingAverage": 4.7,
+    "studentsCount": 1284,
+    "createdAt": {
+      "$date": "2025-06-09T17:07:01.000Z"
+    },
+    "updatedAt": {
+      "$date": "2025-07-26T17:07:01.000Z"
+    },
+    "feedbacksId": []
+  },
+  {
+    "_id": {
+      "$oid": "68a1c0de1234abcd56700003"
+    },
+    "slug": "personal-essay-and-memoir-workshop",
+    "title": "Personal Essay and Memoir Workshop",
+    "shortDescription": "Turn lived experience into honest, structured essays using contemporary memoir techniques and reflective revision.",
+    "coverImageUrl": "https://ftp.goit.study/img/skilltenzo/68a1c0de1234abcd56700003.webp",
+    "category": {
+      "$oid": "6659a1000000000000000001"
+    },
+    "level": "Beginner",
+    "language": "English",
+    "durationMinutes": 480,
+    "price": 59,
+    "instructor": {
+      "name": "Eva Phillips",
+      "avatarUrl": "https://ftp.goit.study/img/harmoniq/users/6881563901add19ee16fd009.webp",
+      "bio": "Bestselling memoirist and personal-essay coach with a graduate degree in creative nonfiction."
+    },
+    "whatYoullLearn": [
+      "Identify the emotional core of a personal essay",
+      "Use scene, summary, and reflection in balance",
+      "Write ethically about people in your life",
+      "Structure short and long-form memoir pieces",
+      "Revise for honesty without oversharing",
+      "Submit essays to literary and online outlets"
+    ],
+    "ratingAverage": 4.9,
+    "studentsCount": 1862,
+    "createdAt": {
+      "$date": "2025-09-14T19:27:32.000Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-29T19:27:32.000Z"
+    },
+    "feedbacksId": []
+  },
+  {
+    "_id": {
+      "$oid": "68a1c0de1234abcd56700004"
+    },
+    "slug": "screenwriting-101-structuring-your-first-script",
+    "title": "Screenwriting 101: Structuring Your First Script",
+    "shortDescription": "Learn the language of the screen and complete a full short-film script from logline to final revision over eight weeks.",
+    "coverImageUrl": "https://ftp.goit.study/img/skilltenzo/68a1c0de1234abcd56700004.webp",
+    "category": {
+      "$oid": "6659a1000000000000000001"
+    },
+    "level": "Beginner",
+    "language": "English",
+    "durationMinutes": 600,
+    "price": 79,
+    "instructor": {
+      "name": "Brandon Carter",
+      "avatarUrl": "https://ftp.goit.study/img/harmoniq/users/6881563901add19ee16fd011.webp",
+      "bio": "Screenwriter with two indie features in festival circulation and a decade of script consulting."
+    },
+    "whatYoullLearn": [
+      "Format scripts professionally in industry-standard software",
+      "Build three-act structure for short and feature scripts",
+      "Write dialogue that reveals character and conflict",
+      "Construct visual storytelling without overwriting",
+      "Use loglines and treatments to pitch projects",
+      "Revise based on table reads and feedback"
+    ],
+    "ratingAverage": 4.6,
+    "studentsCount": 943,
+    "createdAt": {
+      "$date": "2025-08-25T16:28:29.000Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-02T16:28:29.000Z"
+    },
+    "feedbacksId": []
+  },
+  {
+    "_id": {
+      "$oid": "68a1c0de1234abcd56700005"
+    },
+    "slug": "copywriting-that-converts-web-email-ads",
+    "title": "Copywriting That Converts: Web, Email, Ads",
+    "shortDescription": "Master persuasive writing for landing pages, email sequences, and paid ads with frameworks proven on real campaigns.",
+    "coverImageUrl": "https://ftp.goit.study/img/skilltenzo/68a1c0de1234abcd56700005.webp",
+    "category": {
+      "$oid": "6659a1000000000000000001"
+    },
+    "level": "Intermediate",
+    "language": "English",
+    "durationMinutes": 540,
+    "price": 99,
+    "instructor": {
+      "name": "Damian Roman",
+      "avatarUrl": "https://ftp.goit.study/img/harmoniq/users/6881563901add19ee16fcff5.webp",
+      "bio": "Award-winning novelist and writing coach with 12 years of experience leading workshops for emerging fiction authors."
+    },
+    "whatYoullLearn": [
+      "Write headlines that earn the click",
+      "Apply proven copy frameworks like AIDA and PAS",
+      "Structure landing pages for clear conversion",
+      "Draft email sequences that nurture and sell",
+      "Write ad copy under tight character limits",
+      "A/B test and iterate based on real data"
+    ],
+    "ratingAverage": 4.7,
+    "studentsCount": 3210,
+    "createdAt": {
+      "$date": "2026-03-13T00:24:33.000Z"
+    },
+    "updatedAt": {
+      "$date": "2026-03-19T00:24:33.000Z"
+    },
+    "feedbacksId": []
+  },
+  {
+    "_id": {
+      "$oid": "68a1c0de1234abcd56700006"
+    },
+    "slug": "poetry-in-practice-voice-form-revision",
+    "title": "Poetry in Practice: Voice, Form, Revision",
+    "shortDescription": "Develop your poetic voice through weekly prompts, formal experiments, and a workshop community focused on revision.",
+    "coverImageUrl": "https://ftp.goit.study/img/skilltenzo/68a1c0de1234abcd56700006.webp",
+    "category": {
+      "$oid": "6659a1000000000000000001"
+    },
+    "level": "Beginner",
+    "language": "English",
+    "durationMinutes": 420,
+    "price": 49,
+    "instructor": {
+      "name": "Penelope Roman",
+      "avatarUrl": "https://ftp.goit.study/img/harmoniq/users/6881563901add19ee16fd013.webp",
+      "bio": "Poet and editor at a small literary press, leading poetry circles for working writers."
+    },
+    "whatYoullLearn": [
+      "Read contemporary poetry as a working writer",
+      "Experiment with sonnet, free verse, and prose poetry",
+      "Use sound, rhythm, and line break with intent",
+      "Revise poems through multiple drafts",
+      "Build a small portfolio for submission",
+      "Read your work aloud with confidence"
+    ],
+    "ratingAverage": 4.8,
+    "studentsCount": 612,
+    "createdAt": {
+      "$date": "2026-02-17T19:17:46.000Z"
+    },
+    "updatedAt": {
+      "$date": "2026-04-05T19:17:46.000Z"
+    },
+    "feedbacksId": []
+  },
+  {
+    "_id": {
+      "$oid": "68a1c0de1234abcd56700007"
+    },
+    "slug": "worldbuilding-for-fantasy-and-sci-fi-authors",
+    "title": "Worldbuilding for Fantasy and Sci-Fi Authors",
+    "shortDescription": "Design rich, internally consistent worlds with magic systems, cultures, and geography that serve the story you want to tell.",
+    "coverImageUrl": "https://ftp.goit.study/img/skilltenzo/68a1c0de1234abcd56700007.webp",
+    "category": {
+      "$oid": "6659a1000000000000000001"
+    },
+    "level": "Intermediate",
+    "language": "English",
+    "durationMinutes": 660,
+    "price": 89,
+    "instructor": {
+      "name": "Damian Roman",
+      "avatarUrl": "https://ftp.goit.study/img/harmoniq/users/6881563901add19ee16fcff5.webp",
+      "bio": "Award-winning novelist and writing coach with 12 years of experience leading workshops for emerging fiction authors."
+    },
+    "whatYoullLearn": [
+      "Build magic systems with clear rules and costs",
+      "Design societies, religions, and political structures",
+      "Use geography and climate to shape culture",
+      "Avoid worldbuilding that smothers the story",
+      "Create languages and naming conventions",
+      "Integrate worldbuilding through scene and dialogue"
+    ],
+    "ratingAverage": 4.9,
+    "studentsCount": 1547,
+    "createdAt": {
+      "$date": "2026-05-12T11:42:58.000Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-31T00:00:00.000Z"
+    },
+    "feedbacksId": []
+  },
+  {
+    "_id": {
+      "$oid": "68a1c0de1234abcd56700008"
+    },
+    "slug": "self-editing-your-manuscript-like-a-pro",
+    "title": "Self-Editing Your Manuscript Like a Pro",
+    "shortDescription": "Move from messy first draft to polished manuscript using a step-by-step revision system used by professional novelists.",
+    "coverImageUrl": "https://ftp.goit.study/img/skilltenzo/68a1c0de1234abcd56700008.webp",
+    "category": {
+      "$oid": "6659a1000000000000000001"
+    },
+    "level": "Advanced",
+    "language": "English",
+    "durationMinutes": 480,
+    "price": 79,
+    "instructor": {
+      "name": "Eva Phillips",
+      "avatarUrl": "https://ftp.goit.study/img/harmoniq/users/6881563901add19ee16fd009.webp",
+      "bio": "Bestselling memoirist and personal-essay coach with a graduate degree in creative nonfiction."
+    },
+    "whatYoullLearn": [
+      "Distinguish developmental, line, and copy edits",
+      "Diagnose structural problems systematically",
+      "Tighten prose without losing voice",
+      "Catch consistency errors before submission",
+      "Build a personal revision checklist",
+      "Know when to hire a professional editor"
+    ],
+    "ratingAverage": 4.7,
+    "studentsCount": 891,
+    "createdAt": {
+      "$date": "2025-07-03T18:19:43.000Z"
+    },
+    "updatedAt": {
+      "$date": "2025-08-09T18:19:43.000Z"
+    },
+    "feedbacksId": []
+  },
+  {
+    "_id": {
+      "$oid": "68a1c0de1234abcd56700009"
+    },
+    "slug": "freelance-writing-portfolio-bootcamp",
+    "title": "Freelance Writing Portfolio Bootcamp",
+    "shortDescription": "Launch a paid freelance writing career by building a portfolio, pitching clients, and structuring rates that respect your time.",
+    "coverImageUrl": "https://ftp.goit.study/img/skilltenzo/68a1c0de1234abcd56700009.webp",
+    "category": {
+      "$oid": "6659a1000000000000000001"
+    },
+    "level": "Beginner",
+    "language": "English",
+    "durationMinutes": 540,
+    "price": 99,
+    "instructor": {
+      "name": "Penelope Roman",
+      "avatarUrl": "https://ftp.goit.study/img/harmoniq/users/6881563901add19ee16fd013.webp",
+      "bio": "Poet and editor at a small literary press, leading poetry circles for working writers."
+    },
+    "whatYoullLearn": [
+      "Build a portfolio site that wins assignments",
+      "Pitch warm and cold prospects effectively",
+      "Set rates and write proposals that convert",
+      "Manage clients, scope, and revisions",
+      "Find recurring work in your niche",
+      "Track income, expenses, and quarterly taxes"
+    ],
+    "ratingAverage": 4.6,
+    "studentsCount": 2076,
+    "createdAt": {
+      "$date": "2025-11-10T20:35:47.000Z"
+    },
+    "updatedAt": {
+      "$date": "2025-11-12T20:35:47.000Z"
+    },
+    "feedbacksId": []
+  },
+  {
+    "_id": {
+      "$oid": "68a1c0de1234abcd5670000a"
+    },
+    "slug": "children-s-book-writing-and-illustration-basics",
+    "title": "Children's Book Writing and Illustration Basics",
+    "shortDescription": "Write and illustrate a picture book dummy ready to query agents or self-publish, with guidance on age, tone, and pacing.",
+    "coverImageUrl": "https://ftp.goit.study/img/skilltenzo/68a1c0de1234abcd5670000a.webp",
+    "category": {
+      "$oid": "6659a1000000000000000001"
+    },
+    "level": "Beginner",
+    "language": "English",
+    "durationMinutes": 600,
+    "price": 89,
+    "instructor": {
+      "name": "Pauline Roman",
+      "avatarUrl": "https://ftp.goit.study/img/harmoniq/users/6881563901add19ee16fcffc.webp",
+      "bio": "Children's book author and illustrator with eight titles published across two languages."
+    },
+    "whatYoullLearn": [
+      "Choose the right age category and word count",
+      "Develop characters children connect with",
+      "Pace a 32-page picture book skillfully",
+      "Sketch a book dummy for submission",
+      "Pair text and image without redundancy",
+      "Decide between traditional and self-publishing"
+    ],
+    "ratingAverage": 4.8,
+    "studentsCount": 1142,
+    "createdAt": {
+      "$date": "2025-06-11T13:43:48.000Z"
+    },
+    "updatedAt": {
+      "$date": "2025-06-16T13:43:48.000Z"
+    },
+    "feedbacksId": []
+  },
+  {
+    "_id": {
+      "$oid": "68a1c0de1234abcd5670000b"
+    },
+    "slug": "blogging-for-authors-building-your-audience",
+    "title": "Blogging for Authors: Building Your Audience",
+    "shortDescription": "Build a sustainable author blog and email list that supports your books without taking over your writing time.",
+    "coverImageUrl": "https://ftp.goit.study/img/skilltenzo/68a1c0de1234abcd5670000b.webp",
+    "category": {
+      "$oid": "6659a1000000000000000001"
+    },
+    "level": "Beginner",
+    "language": "English",
+    "durationMinutes": 360,
+    "price": 49,
+    "instructor": {
+      "name": "Penelope Roman",
+      "avatarUrl": "https://ftp.goit.study/img/harmoniq/users/6881563901add19ee16fd013.webp",
+      "bio": "Poet and editor at a small literary press, leading poetry circles for working writers."
+    },
+    "whatYoullLearn": [
+      "Pick a blog focus that supports your books",
+      "Write posts that readers actually finish",
+      "Grow an email list with simple lead magnets",
+      "Repurpose content across platforms",
+      "Maintain a posting cadence you can sustain",
+      "Measure what matters and ignore vanity metrics"
+    ],
+    "ratingAverage": 4.5,
+    "studentsCount": 738,
+    "createdAt": {
+      "$date": "2025-08-23T21:51:13.000Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-06T21:51:13.000Z"
+    },
+    "feedbacksId": []
+  },
+  {
+    "_id": {
+      "$oid": "68a1c0de1234abcd5670000c"
+    },
+    "slug": "podcast-launch-blueprint-from-idea-to-episode-one",
+    "title": "Podcast Launch Blueprint: From Idea to Episode One",
+    "shortDescription": "Plan, record, edit, and publish your first podcast season with a sustainable workflow and clear branding.",
+    "coverImageUrl": "https://ftp.goit.study/img/skilltenzo/68a1c0de1234abcd5670000c.webp",
+    "category": {
+      "$oid": "6659a1000000000000000002"
+    },
+    "level": "Beginner",
+    "language": "English",
+    "durationMinutes": 540,
+    "price": 89,
+    "instructor": {
+      "name": "Matthew Sullivan",
+      "avatarUrl": "https://ftp.goit.study/img/harmoniq/users/6881563901add19ee16fd017.webp",
+      "bio": "Audio engineer and podcast producer with 15 years in commercial radio and indie podcast production."
+    },
+    "whatYoullLearn": [
+      "Define a podcast concept with clear audience fit",
+      "Choose gear that fits your budget and space",
+      "Record clean audio from the first session",
+      "Edit episodes efficiently using templates",
+      "Publish to all major podcast platforms",
+      "Promote new episodes without burning out"
+    ],
+    "ratingAverage": 4.8,
+    "studentsCount": 2654,
+    "createdAt": {
+      "$date": "2025-12-13T06:15:09.000Z"
+    },
+    "updatedAt": {
+      "$date": "2026-01-20T06:15:09.000Z"
+    },
+    "feedbacksId": []
+  },
+  {
+    "_id": {
+      "$oid": "68a1c0de1234abcd5670000d"
+    },
+    "slug": "home-studio-setup-on-any-budget",
+    "title": "Home Studio Setup on Any Budget",
+    "shortDescription": "Build a recording space that sounds great whether you have a closet or a dedicated room, with gear recommendations for any budget.",
+    "coverImageUrl": "https://ftp.goit.study/img/skilltenzo/68a1c0de1234abcd5670000d.webp",
+    "category": {
+      "$oid": "6659a1000000000000000002"
+    },
+    "level": "Beginner",
+    "language": "English",
+    "durationMinutes": 360,
+    "price": 49,
+    "instructor": {
+      "name": "Matthew Sullivan",
+      "avatarUrl": "https://ftp.goit.study/img/harmoniq/users/6881563901add19ee16fd017.webp",
+      "bio": "Audio engineer and podcast producer with 15 years in commercial radio and indie podcast production."
+    },
+    "whatYoullLearn": [
+      "Treat any room for recording without expensive panels",
+      "Pick the right microphone for your voice or instrument",
+      "Set up an interface and monitoring chain",
+      "Wire signal flow that avoids common pitfalls",
+      "Optimize your computer for low-latency audio",
+      "Maintain gear so it lasts for years"
+    ],
+    "ratingAverage": 4.7,
+    "studentsCount": 1923,
+    "createdAt": {
+      "$date": "2025-06-10T07:19:59.000Z"
+    },
+    "updatedAt": {
+      "$date": "2025-07-15T07:19:59.000Z"
+    },
+    "feedbacksId": []
+  },
+  {
+    "_id": {
+      "$oid": "68a1c0de1234abcd5670000e"
+    },
+    "slug": "voice-over-acting-for-beginners",
+    "title": "Voice-Over Acting for Beginners",
+    "shortDescription": "Develop the vocal range and performance skills needed to book commercial, audiobook, and explainer voice-over work.",
+    "coverImageUrl": "https://ftp.goit.study/img/skilltenzo/68a1c0de1234abcd5670000e.webp",
+    "category": {
+      "$oid": "6659a1000000000000000002"
+    },
+    "level": "Beginner",
+    "language": "English",
+    "durationMinutes": 420,
+    "price": 79,
+    "instructor": {
+      "name": "Adrian Connor",
+      "avatarUrl": "https://ftp.goit.study/img/harmoniq/users/6881563901add19ee16fd014.webp",
+      "bio": "Voice-over artist and acting coach with credits on commercials, audiobooks, and animated series."
+    },
+    "whatYoullLearn": [
+      "Warm up your voice before each session",
+      "Read commercial copy with natural energy",
+      "Perform character voices for animation and games",
+      "Record audiobook chapters with consistency",
+      "Build a demo reel that wins auditions",
+      "Find ongoing voice-over work online"
+    ],
+    "ratingAverage": 4.8,
+    "studentsCount": 1437,
+    "createdAt": {
+      "$date": "2025-08-16T05:18:04.000Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-30T05:18:04.000Z"
+    },
+    "feedbacksId": []
+  },
+  {
+    "_id": {
+      "$oid": "68a1c0de1234abcd5670000f"
+    },
+    "slug": "mixing-music-in-logic-pro-a-practical-course",
+    "title": "Mixing Music in Logic Pro: A Practical Course",
+    "shortDescription": "Mix release-ready tracks in Logic Pro using EQ, compression, automation, and reference-based decisions on every channel.",
+    "coverImageUrl": "https://ftp.goit.study/img/skilltenzo/68a1c0de1234abcd5670000f.webp",
+    "category": {
+      "$oid": "6659a1000000000000000002"
+    },
+    "level": "Intermediate",
+    "language": "English",
+    "durationMinutes": 720,
+    "price": 119,
+    "instructor": {
+      "name": "Alex Miller",
+      "avatarUrl": "https://ftp.goit.study/img/harmoniq/users/6881563901add19ee16fd006.webp",
+      "bio": "Mixing engineer and producer mentoring home-studio musicians toward release-ready sound."
+    },
+    "whatYoullLearn": [
+      "Set up a mix template that saves hours",
+      "Carve space with EQ on every channel",
+      "Use compression musically, not destructively",
+      "Build depth using reverb and delay",
+      "Mix vocals so they sit in any genre",
+      "Reference and finalize your mix to release"
+    ],
+    "ratingAverage": 4.9,
+    "studentsCount": 1856,
+    "createdAt": {
+      "$date": "2026-02-07T09:21:43.000Z"
+    },
+    "updatedAt": {
+      "$date": "2026-03-23T09:21:43.000Z"
+    },
+    "feedbacksId": []
+  },
+  {
+    "_id": {
+      "$oid": "68a1c0de1234abcd56700010"
+    },
+    "slug": "field-recording-for-documentaries-and-nature",
+    "title": "Field Recording for Documentaries and Nature",
+    "shortDescription": "Capture clean, evocative location sound with portable gear, smart microphone placement, and post-production cleanup.",
+    "coverImageUrl": "https://ftp.goit.study/img/skilltenzo/68a1c0de1234abcd56700010.webp",
+    "category": {
+      "$oid": "6659a1000000000000000002"
+    },
+    "level": "Intermediate",
+    "language": "English",
+    "durationMinutes": 480,
+    "price": 89,
+    "instructor": {
+      "name": "Nathan Thompson",
+      "avatarUrl": "https://ftp.goit.study/img/harmoniq/users/6881563901add19ee16fcff3.webp",
+      "bio": "Documentary sound designer and field recordist with 11 years on award-winning nature productions."
+    },
+    "whatYoullLearn": [
+      "Choose recorders and microphones for the field",
+      "Manage wind, handling noise, and ambient hum",
+      "Capture clean dialogue on documentary shoots",
+      "Record atmospheres and natural soundscapes",
+      "Organize, label, and back up recordings on location",
+      "Edit field recordings for use in post"
+    ],
+    "ratingAverage": 4.7,
+    "studentsCount": 612,
+    "createdAt": {
+      "$date": "2025-12-28T15:13:21.000Z"
+    },
+    "updatedAt": {
+      "$date": "2026-01-23T15:13:21.000Z"
+    },
+    "feedbacksId": []
+  },
+  {
+    "_id": {
+      "$oid": "68a1c0de1234abcd56700011"
+    },
+    "slug": "audio-editing-in-audacity-from-raw-to-ready",
+    "title": "Audio Editing in Audacity: From Raw to Ready",
+    "shortDescription": "Edit podcasts, interviews, and voice recordings to a professional standard using the free Audacity workflow.",
+    "coverImageUrl": "https://ftp.goit.study/img/skilltenzo/68a1c0de1234abcd56700011.webp",
+    "category": {
+      "$oid": "6659a1000000000000000002"
+    },
+    "level": "Beginner",
+    "language": "English",
+    "durationMinutes": 300,
+    "price": 39,
+    "instructor": {
+      "name": "Nathan Thompson",
+      "avatarUrl": "https://ftp.goit.study/img/harmoniq/users/6881563901add19ee16fcff3.webp",
+      "bio": "Documentary sound designer and field recordist with 11 years on award-winning nature productions."
+    },
+    "whatYoullLearn": [
+      "Install and configure Audacity from scratch",
+      "Edit out filler words, breaths, and noise",
+      "Balance multiple speakers in one session",
+      "Apply EQ, compression, and noise reduction",
+      "Export to formats podcast hosts accept",
+      "Build a repeatable editing checklist"
+    ],
+    "ratingAverage": 4.6,
+    "studentsCount": 2487,
+    "createdAt": {
+      "$date": "2025-08-24T14:39:19.000Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-21T14:39:19.000Z"
+    },
+    "feedbacksId": []
+  },
+  {
+    "_id": {
+      "$oid": "68a1c0de1234abcd56700012"
+    },
+    "slug": "mastering-essentials-loudness-eq-compression",
+    "title": "Mastering Essentials: Loudness, EQ, Compression",
+    "shortDescription": "Master your own tracks for streaming platforms with clear targets for loudness, dynamics, and tonal balance.",
+    "coverImageUrl": "https://ftp.goit.study/img/skilltenzo/68a1c0de1234abcd56700012.webp",
+    "category": {
+      "$oid": "6659a1000000000000000002"
+    },
+    "level": "Advanced",
+    "language": "English",
+    "durationMinutes": 480,
+    "price": 129,
+    "instructor": {
+      "name": "Matteo Peters",
+      "avatarUrl": "https://ftp.goit.study/img/harmoniq/users/6881563901add19ee16fd01a.webp",
+      "bio": "Mastering engineer working with independent labels and producers across electronic and acoustic genres."
+    },
+    "whatYoullLearn": [
+      "Set realistic loudness targets per platform",
+      "Use linear-phase EQ for transparent tone shaping",
+      "Apply multiband and broadband compression",
+      "Build a stereo image without losing mono compatibility",
+      "Reference masters across genres",
+      "Deliver master files in correct formats"
+    ],
+    "ratingAverage": 4.8,
+    "studentsCount": 743,
+    "createdAt": {
+      "$date": "2026-01-14T20:21:15.000Z"
+    },
+    "updatedAt": {
+      "$date": "2026-01-31T20:21:15.000Z"
+    },
+    "feedbacksId": []
+  },
+  {
+    "_id": {
+      "$oid": "68a1c0de1234abcd56700013"
+    },
+    "slug": "sound-design-for-indie-games-and-films",
+    "title": "Sound Design for Indie Games and Films",
+    "shortDescription": "Create original sound effects, foley, and ambient beds for indie games and short films using recording and synthesis.",
+    "coverImageUrl": "https://ftp.goit.study/img/skilltenzo/68a1c0de1234abcd56700013.webp",
+    "category": {
+      "$oid": "6659a1000000000000000002"
+    },
+    "level": "Intermediate",
+    "language": "English",
+    "durationMinutes": 600,
+    "price": 99,
+    "instructor": {
+      "name": "Vincent Phillips",
+      "avatarUrl": "https://ftp.goit.study/img/harmoniq/users/6881563901add19ee16fcff9.webp",
+      "bio": "Indie game sound designer who has shipped audio for over forty titles on Steam and mobile."
+    },
+    "whatYoullLearn": [
+      "Record original foley with household objects",
+      "Design synthesized effects in any DAW",
+      "Build layered sound effects from scratch",
+      "Implement audio in game engines like Unity",
+      "Create immersive ambient beds and atmospheres",
+      "Deliver organized asset libraries to clients"
+    ],
+    "ratingAverage": 4.7,
+    "studentsCount": 824,
+    "createdAt": {
+      "$date": "2026-04-10T08:26:19.000Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-31T00:00:00.000Z"
+    },
+    "feedbacksId": []
+  },
+  {
+    "_id": {
+      "$oid": "68a1c0de1234abcd56700014"
+    },
+    "slug": "interview-techniques-for-podcasters",
+    "title": "Interview Techniques for Podcasters",
+    "shortDescription": "Conduct interviews that surprise even your guests using preparation, structure, and present-moment listening skills.",
+    "coverImageUrl": "https://ftp.goit.study/img/skilltenzo/68a1c0de1234abcd56700014.webp",
+    "category": {
+      "$oid": "6659a1000000000000000002"
+    },
+    "level": "Intermediate",
+    "language": "English",
+    "durationMinutes": 360,
+    "price": 59,
+    "instructor": {
+      "name": "Matthew Sullivan",
+      "avatarUrl": "https://ftp.goit.study/img/harmoniq/users/6881563901add19ee16fd017.webp",
+      "bio": "Audio engineer and podcast producer with 15 years in commercial radio and indie podcast production."
+    },
+    "whatYoullLearn": [
+      "Research guests for sharper questions",
+      "Build an arc into every interview",
+      "Listen actively and follow up well",
+      "Handle nervous, defensive, or rambling guests",
+      "Cut interviews to your best 40 minutes",
+      "Develop a recognizable interview style"
+    ],
+    "ratingAverage": 4.8,
+    "studentsCount": 1126,
+    "createdAt": {
+      "$date": "2025-06-02T12:34:22.000Z"
+    },
+    "updatedAt": {
+      "$date": "2025-07-20T12:34:22.000Z"
+    },
+    "feedbacksId": []
+  },
+  {
+    "_id": {
+      "$oid": "68a1c0de1234abcd56700015"
+    },
+    "slug": "wheel-pottery-for-absolute-beginners",
+    "title": "Wheel Pottery for Absolute Beginners",
+    "shortDescription": "Throw centered cylinders, bowls, and mugs on the wheel with confidence, from clay preparation to your first glazed pieces.",
+    "coverImageUrl": "https://ftp.goit.study/img/skilltenzo/68a1c0de1234abcd56700015.webp",
+    "category": {
+      "$oid": "6659a1000000000000000003"
+    },
+    "level": "Beginner",
+    "language": "English",
+    "durationMinutes": 600,
+    "price": 89,
+    "instructor": {
+      "name": "Nathan Roman",
+      "avatarUrl": "https://ftp.goit.study/img/harmoniq/users/6881563901add19ee16fd010.webp",
+      "bio": "Master potter and ceramics instructor running a community studio for 9 years across three cities."
+    },
+    "whatYoullLearn": [
+      "Wedge and prepare clay for the wheel",
+      "Center clay reliably every time",
+      "Throw cylinders, bowls, and mugs",
+      "Pull handles and attach them well",
+      "Trim and finish leather-hard pieces",
+      "Glaze and fire your first batch"
+    ],
+    "ratingAverage": 4.9,
+    "studentsCount": 1547,
+    "createdAt": {
+      "$date": "2026-04-08T22:46:47.000Z"
+    },
+    "updatedAt": {
+      "$date": "2026-04-18T22:46:47.000Z"
+    },
+    "feedbacksId": []
+  },
+  {
+    "_id": {
+      "$oid": "68a1c0de1234abcd56700016"
+    },
+    "slug": "hand-building-ceramics-at-home",
+    "title": "Hand-Building Ceramics at Home",
+    "shortDescription": "Make beautiful ceramics without a wheel using pinch, coil, and slab techniques, plus a small home-firing workflow.",
+    "coverImageUrl": "https://ftp.goit.study/img/skilltenzo/68a1c0de1234abcd56700016.webp",
+    "category": {
+      "$oid": "6659a1000000000000000003"
+    },
+    "level": "Beginner",
+    "language": "English",
+    "durationMinutes": 480,
+    "price": 69,
+    "instructor": {
+      "name": "Nathan Roman",
+      "avatarUrl": "https://ftp.goit.study/img/harmoniq/users/6881563901add19ee16fd010.webp",
+      "bio": "Master potter and ceramics instructor running a community studio for 9 years across three cities."
+    },
+    "whatYoullLearn": [
+      "Set up a hand-building space at home",
+      "Master pinch, coil, and slab techniques",
+      "Build mugs, plates, and planters by hand",
+      "Add texture, carving, and surface detail",
+      "Bisque-fire in a small home kiln",
+      "Glaze and finish for daily use"
+    ],
+    "ratingAverage": 4.7,
+    "studentsCount": 893,
+    "createdAt": {
+      "$date": "2026-02-26T03:07:50.000Z"
+    },
+    "updatedAt": {
+      "$date": "2026-03-25T03:07:50.000Z"
+    },
+    "feedbacksId": []
+  },
+  {
+    "_id": {
+      "$oid": "68a1c0de1234abcd56700017"
+    },
+    "slug": "knitting-foundations-your-first-sweater",
+    "title": "Knitting Foundations: Your First Sweater",
+    "shortDescription": "Knit a top-down sweater from scratch, learning everything from holding needles to finishing seams as you go.",
+    "coverImageUrl": "https://ftp.goit.study/img/skilltenzo/68a1c0de1234abcd56700017.webp",
+    "category": {
+      "$oid": "6659a1000000000000000003"
+    },
+    "level": "Beginner",
+    "language": "English",
+    "durationMinutes": 720,
+    "price": 79,
+    "instructor": {
+      "name": "Diana Coleman",
+      "avatarUrl": "https://ftp.goit.study/img/harmoniq/users/6881563901add19ee16fcffb.webp",
+      "bio": "Knitwear designer and pattern maker teaching modern knitting techniques to over 5,000 students."
+    },
+    "whatYoullLearn": [
+      "Choose yarn, needles, and the right gauge",
+      "Master knit, purl, and increase stitches",
+      "Read a knitting pattern with confidence",
+      "Work a top-down raglan construction",
+      "Fix common mistakes without unraveling",
+      "Finish, block, and care for your sweater"
+    ],
+    "ratingAverage": 4.8,
+    "studentsCount": 2134,
+    "createdAt": {
+      "$date": "2025-10-10T03:21:52.000Z"
+    },
+    "updatedAt": {
+      "$date": "2025-10-27T03:21:52.000Z"
+    },
+    "feedbacksId": []
+  },
+  {
+    "_id": {
+      "$oid": "68a1c0de1234abcd56700018"
+    },
+    "slug": "modern-crochet-patterns-and-techniques",
+    "title": "Modern Crochet Patterns and Techniques",
+    "shortDescription": "Move beyond the basics into amigurumi, garments, and home decor with contemporary crochet techniques and pattern reading.",
+    "coverImageUrl": "https://ftp.goit.study/img/skilltenzo/68a1c0de1234abcd56700018.webp",
+    "category": {
+      "$oid": "6659a1000000000000000003"
+    },
+    "level": "Intermediate",
+    "language": "English",
+    "durationMinutes": 540,
+    "price": 69,
+    "instructor": {
+      "name": "Anastasia Boyd",
+      "avatarUrl": "https://ftp.goit.study/img/harmoniq/users/6881563901add19ee16fd016.webp",
+      "bio": "Crochet designer and small-business owner selling patterns to hobbyist makers worldwide."
+    },
+    "whatYoullLearn": [
+      "Read modern crochet patterns and charts",
+      "Crochet amigurumi with clean stitches",
+      "Build garments with correct sizing",
+      "Use color theory in finished pieces",
+      "Work in the round without seams",
+      "Block and finish for a polished look"
+    ],
+    "ratingAverage": 4.7,
+    "studentsCount": 1126,
+    "createdAt": {
+      "$date": "2025-07-30T09:10:26.000Z"
+    },
+    "updatedAt": {
+      "$date": "2025-08-12T09:10:26.000Z"
+    },
+    "feedbacksId": []
+  },
+  {
+    "_id": {
+      "$oid": "68a1c0de1234abcd56700019"
+    },
+    "slug": "woodworking-basics-joints-tools-safety",
+    "title": "Woodworking Basics: Joints, Tools, Safety",
+    "shortDescription": "Build a small piece of furniture by hand using essential joinery and a beginner-friendly tool kit you can store in a closet.",
+    "coverImageUrl": "https://ftp.goit.study/img/skilltenzo/68a1c0de1234abcd56700019.webp",
+    "category": {
+      "$oid": "6659a1000000000000000003"
+    },
+    "level": "Beginner",
+    "language": "English",
+    "durationMinutes": 660,
+    "price": 99,
+    "instructor": {
+      "name": "Matthew Miller",
+      "avatarUrl": "https://ftp.goit.study/img/harmoniq/users/6881563901add19ee16fd012.webp",
+      "bio": "Cabinetmaker and woodworking instructor with 14 years building heirloom furniture in a small workshop."
+    },
+    "whatYoullLearn": [
+      "Set up a safe small-space workshop",
+      "Sharpen and maintain hand tools",
+      "Cut accurate measurements and angles",
+      "Build dovetail and mortise-and-tenon joints",
+      "Finish wood with oil and wax",
+      "Plan a project from sketch to assembly"
+    ],
+    "ratingAverage": 4.8,
+    "studentsCount": 942,
+    "createdAt": {
+      "$date": "2026-03-23T12:16:51.000Z"
+    },
+    "updatedAt": {
+      "$date": "2026-04-13T12:16:51.000Z"
+    },
+    "feedbacksId": []
+  },
+  {
+    "_id": {
+      "$oid": "68a1c0de1234abcd5670001a"
+    },
+    "slug": "macrame-wall-art-7-projects-from-scratch",
+    "title": "Macrame Wall Art: 7 Projects from Scratch",
+    "shortDescription": "Knot seven contemporary macrame projects, from plant hangers to a large wall piece, using only a handful of essential knots.",
+    "coverImageUrl": "https://ftp.goit.study/img/skilltenzo/68a1c0de1234abcd5670001a.webp",
+    "category": {
+      "$oid": "6659a1000000000000000003"
+    },
+    "level": "Beginner",
+    "language": "English",
+    "durationMinutes": 360,
+    "price": 49,
+    "instructor": {
+      "name": "Alexandra Bennett",
+      "avatarUrl": "https://ftp.goit.study/img/harmoniq/users/6881563901add19ee16fcff6.webp",
+      "bio": "Macramé artist and weekend-workshop host running studios in two cities."
+    },
+    "whatYoullLearn": [
+      "Tie square, half-hitch, and lark's-head knots",
+      "Choose cord types and weights",
+      "Make plant hangers in two styles",
+      "Build a large statement wall piece",
+      "Finish edges with tassels and fringe",
+      "Hang and care for finished work"
+    ],
+    "ratingAverage": 4.6,
+    "studentsCount": 1428,
+    "createdAt": {
+      "$date": "2025-07-09T16:40:07.000Z"
+    },
+    "updatedAt": {
+      "$date": "2025-07-14T16:40:07.000Z"
+    },
+    "feedbacksId": []
+  },
+  {
+    "_id": {
+      "$oid": "68a1c0de1234abcd5670001b"
+    },
+    "slug": "embroidery-essentials-stitches-and-composition",
+    "title": "Embroidery Essentials: Stitches and Composition",
+    "shortDescription": "Stitch botanical and abstract embroidery designs with twelve foundational stitches and a sense of color and composition.",
+    "coverImageUrl": "https://ftp.goit.study/img/skilltenzo/68a1c0de1234abcd5670001b.webp",
+    "category": {
+      "$oid": "6659a1000000000000000003"
+    },
+    "level": "Beginner",
+    "language": "English",
+    "durationMinutes": 420,
+    "price": 59,
+    "instructor": {
+      "name": "Diana Ivanson",
+      "avatarUrl": "https://ftp.goit.study/img/harmoniq/users/6881563901add19ee16fd00f.webp",
+      "bio": "Embroidery artist whose botanical pieces hang in three independent galleries across Europe."
+    },
+    "whatYoullLearn": [
+      "Prepare hoop, fabric, and thread",
+      "Stitch twelve foundational embroidery stitches",
+      "Use thread color like a painter uses paint",
+      "Design botanical and abstract pieces",
+      "Add texture with French knots and bullion",
+      "Frame and finish for display"
+    ],
+    "ratingAverage": 4.8,
+    "studentsCount": 1672,
+    "createdAt": {
+      "$date": "2025-10-25T13:10:44.000Z"
+    },
+    "updatedAt": {
+      "$date": "2025-10-31T13:10:44.000Z"
+    },
+    "feedbacksId": []
+  },
+  {
+    "_id": {
+      "$oid": "68a1c0de1234abcd5670001c"
+    },
+    "slug": "leathercraft-101-wallets-belts-small-goods",
+    "title": "Leathercraft 101: Wallets, Belts, Small Goods",
+    "shortDescription": "Hand-stitch your first leather wallet, belt, and card holder using saddle stitch technique and basic edge finishing.",
+    "coverImageUrl": "https://ftp.goit.study/img/skilltenzo/68a1c0de1234abcd5670001c.webp",
+    "category": {
+      "$oid": "6659a1000000000000000003"
+    },
+    "level": "Beginner",
+    "language": "English",
+    "durationMinutes": 480,
+    "price": 79,
+    "instructor": {
+      "name": "Ivan Coleman",
+      "avatarUrl": "https://ftp.goit.study/img/harmoniq/users/6881563901add19ee16fcffa.webp",
+      "bio": "Leatherworker producing handmade wallets and belts; teaches small-batch craft on weekends."
+    },
+    "whatYoullLearn": [
+      "Pick leather types and weights",
+      "Cut and prepare pieces accurately",
+      "Master the saddle stitch by hand",
+      "Bevel, sand, and burnish edges",
+      "Set rivets, snaps, and Chicago screws",
+      "Care for finished leather goods"
+    ],
+    "ratingAverage": 4.7,
+    "studentsCount": 624,
+    "createdAt": {
+      "$date": "2025-10-17T09:55:49.000Z"
+    },
+    "updatedAt": {
+      "$date": "2025-12-10T09:55:49.000Z"
+    },
+    "feedbacksId": []
+  },
+  {
+    "_id": {
+      "$oid": "68a1c0de1234abcd5670001d"
+    },
+    "slug": "resin-art-for-beginners-coasters-to-boards",
+    "title": "Resin Art for Beginners: Coasters to Boards",
+    "shortDescription": "Pour safe, professional epoxy resin coasters, trays, and cheese boards with predictable results and zero bubbles.",
+    "coverImageUrl": "https://ftp.goit.study/img/skilltenzo/68a1c0de1234abcd5670001d.webp",
+    "category": {
+      "$oid": "6659a1000000000000000003"
+    },
+    "level": "Beginner",
+    "language": "English",
+    "durationMinutes": 360,
+    "price": 59,
+    "instructor": {
+      "name": "Pauline Powell",
+      "avatarUrl": "https://ftp.goit.study/img/harmoniq/users/6881563901add19ee16fd018.webp",
+      "bio": "Resin artist and small-batch maker; teaches beginners how to pour safely and reliably."
+    },
+    "whatYoullLearn": [
+      "Choose and store epoxy resin safely",
+      "Mix and color resin without bubbles",
+      "Pour coasters, trays, and small boards",
+      "Use pigments, glitters, and inclusions",
+      "Sand and polish to a glossy finish",
+      "Sell finished pieces locally or online"
+    ],
+    "ratingAverage": 4.5,
+    "studentsCount": 982,
+    "createdAt": {
+      "$date": "2025-10-11T13:53:58.000Z"
+    },
+    "updatedAt": {
+      "$date": "2025-11-18T13:53:58.000Z"
+    },
+    "feedbacksId": []
+  },
+  {
+    "_id": {
+      "$oid": "68a1c0de1234abcd5670001e"
+    },
+    "slug": "candle-making-at-home-soy-beeswax-scents",
+    "title": "Candle Making at Home: Soy, Beeswax, Scents",
+    "shortDescription": "Pour container and pillar candles in soy and beeswax with reliable scent throw and clean, professional finishes.",
+    "coverImageUrl": "https://ftp.goit.study/img/skilltenzo/68a1c0de1234abcd5670001e.webp",
+    "category": {
+      "$oid": "6659a1000000000000000003"
+    },
+    "level": "Beginner",
+    "language": "English",
+    "durationMinutes": 300,
+    "price": 49,
+    "instructor": {
+      "name": "Alexandra Bennett",
+      "avatarUrl": "https://ftp.goit.study/img/harmoniq/users/6881563901add19ee16fcff6.webp",
+      "bio": "Macramé artist and weekend-workshop host running studios in two cities."
+    },
+    "whatYoullLearn": [
+      "Pick soy, beeswax, or coconut wax",
+      "Mix fragrance oils for strong scent throw",
+      "Pour container candles with smooth tops",
+      "Cast pillar candles in silicone molds",
+      "Trim and prime wicks correctly",
+      "Label and price candles for sale"
+    ],
+    "ratingAverage": 4.6,
+    "studentsCount": 1238,
+    "createdAt": {
+      "$date": "2025-09-10T17:30:47.000Z"
+    },
+    "updatedAt": {
+      "$date": "2025-10-31T17:30:47.000Z"
+    },
+    "feedbacksId": []
+  },
+  {
+    "_id": {
+      "$oid": "68a1c0de1234abcd5670001f"
+    },
+    "slug": "balcony-gardening-for-apartment-dwellers",
+    "title": "Balcony Gardening for Apartment Dwellers",
+    "shortDescription": "Turn a small balcony into a productive year-round garden with smart containers, vertical growing, and a planting calendar.",
+    "coverImageUrl": "https://ftp.goit.study/img/skilltenzo/68a1c0de1234abcd5670001f.webp",
+    "category": {
+      "$oid": "6659a1000000000000000004"
+    },
+    "level": "Beginner",
+    "language": "English",
+    "durationMinutes": 360,
+    "price": 49,
+    "instructor": {
+      "name": "Adrian Roman",
+      "avatarUrl": "https://ftp.goit.study/img/harmoniq/users/6881563901add19ee16fd00a.webp",
+      "bio": "Urban gardener and horticulture teacher who turned three apartment balconies into a teaching channel."
+    },
+    "whatYoullLearn": [
+      "Plan a balcony around sun and wind",
+      "Pick containers and potting mix that work",
+      "Choose plants that thrive in pots",
+      "Build vertical growing space",
+      "Water and feed without overdoing it",
+      "Extend the season into cooler months"
+    ],
+    "ratingAverage": 4.8,
+    "studentsCount": 2174,
+    "createdAt": {
+      "$date": "2025-06-16T20:59:14.000Z"
+    },
+    "updatedAt": {
+      "$date": "2025-08-01T20:59:14.000Z"
+    },
+    "feedbacksId": []
+  },
+  {
+    "_id": {
+      "$oid": "68a1c0de1234abcd56700020"
+    },
+    "slug": "indoor-plant-care-light-water-soil",
+    "title": "Indoor Plant Care: Light, Water, Soil",
+    "shortDescription": "Keep houseplants thriving by learning to read light, water correctly, and pot in the right soil for each species.",
+    "coverImageUrl": "https://ftp.goit.study/img/skilltenzo/68a1c0de1234abcd56700020.webp",
+    "category": {
+      "$oid": "6659a1000000000000000004"
+    },
+    "level": "Beginner",
+    "language": "English",
+    "durationMinutes": 300,
+    "price": 39,
+    "instructor": {
+      "name": "Alexandra Thompson",
+      "avatarUrl": "https://ftp.goit.study/img/harmoniq/users/6881563901add19ee16fd002.webp",
+      "bio": "Indoor plant specialist running a houseplant nursery and a YouTube channel with 200K subscribers."
+    },
+    "whatYoullLearn": [
+      "Read light levels in any room",
+      "Water based on plant needs, not schedules",
+      "Mix or buy the right soil for each species",
+      "Diagnose yellow leaves and root rot",
+      "Repot without shocking your plants",
+      "Build a low-effort care routine"
+    ],
+    "ratingAverage": 4.9,
+    "studentsCount": 4287,
+    "createdAt": {
+      "$date": "2025-11-25T10:09:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2025-12-29T10:09:00.000Z"
+    },
+    "feedbacksId": []
+  },
+  {
+    "_id": {
+      "$oid": "68a1c0de1234abcd56700021"
+    },
+    "slug": "herb-garden-mastery-from-seed-to-plate",
+    "title": "Herb Garden Mastery: From Seed to Plate",
+    "shortDescription": "Grow a year-round herb garden indoors or outdoors and use every harvest in fresh, dried, and preserved kitchen forms.",
+    "coverImageUrl": "https://ftp.goit.study/img/skilltenzo/68a1c0de1234abcd56700021.webp",
+    "category": {
+      "$oid": "6659a1000000000000000004"
+    },
+    "level": "Beginner",
+    "language": "English",
+    "durationMinutes": 360,
+    "price": 49,
+    "instructor": {
+      "name": "Catherine Ivanson",
+      "avatarUrl": "https://ftp.goit.study/img/harmoniq/users/6881563901add19ee16fd005.webp",
+      "bio": "Herbalist and kitchen-garden teacher with 8 years of experience growing edibles in tight spaces."
+    },
+    "whatYoullLearn": [
+      "Start herbs from seed and cuttings",
+      "Grow ten common culinary herbs",
+      "Harvest without harming the plant",
+      "Dry, freeze, and infuse herbs",
+      "Diagnose pests and common diseases",
+      "Plan succession planting for year-round supply"
+    ],
+    "ratingAverage": 4.7,
+    "studentsCount": 1856,
+    "createdAt": {
+      "$date": "2025-07-18T11:27:50.000Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-15T11:27:50.000Z"
+    },
+    "feedbacksId": []
+  },
+  {
+    "_id": {
+      "$oid": "68a1c0de1234abcd56700022"
+    },
+    "slug": "vegetable-container-gardening-year-round",
+    "title": "Vegetable Container Gardening Year-Round",
+    "shortDescription": "Grow tomatoes, peppers, greens, and root vegetables in containers on patios and balconies through every season.",
+    "coverImageUrl": "https://ftp.goit.study/img/skilltenzo/68a1c0de1234abcd56700022.webp",
+    "category": {
+      "$oid": "6659a1000000000000000004"
+    },
+    "level": "Intermediate",
+    "language": "English",
+    "durationMinutes": 480,
+    "price": 69,
+    "instructor": {
+      "name": "Adrian Roman",
+      "avatarUrl": "https://ftp.goit.study/img/harmoniq/users/6881563901add19ee16fd00a.webp",
+      "bio": "Urban gardener and horticulture teacher who turned three apartment balconies into a teaching channel."
+    },
+    "whatYoullLearn": [
+      "Pick container sizes by crop",
+      "Mix a productive container soil blend",
+      "Stake and prune tomatoes in pots",
+      "Grow greens through cool seasons",
+      "Fertilize containers without burning roots",
+      "Rotate crops in limited space"
+    ],
+    "ratingAverage": 4.7,
+    "studentsCount": 1342,
+    "createdAt": {
+      "$date": "2025-10-25T00:11:46.000Z"
+    },
+    "updatedAt": {
+      "$date": "2025-10-30T00:11:46.000Z"
+    },
+    "feedbacksId": []
+  },
+  {
+    "_id": {
+      "$oid": "68a1c0de1234abcd56700023"
+    },
+    "slug": "houseplants-101-picking-and-keeping-them-alive",
+    "title": "Houseplants 101: Picking and Keeping Them Alive",
+    "shortDescription": "Choose houseplants that match your home and routine, then keep them healthy with a forgiving, beginner-friendly system.",
+    "coverImageUrl": "https://ftp.goit.study/img/skilltenzo/68a1c0de1234abcd56700023.webp",
+    "category": {
+      "$oid": "6659a1000000000000000004"
+    },
+    "level": "Beginner",
+    "language": "English",
+    "durationMinutes": 240,
+    "price": 29,
+    "instructor": {
+      "name": "Alexandra Thompson",
+      "avatarUrl": "https://ftp.goit.study/img/harmoniq/users/6881563901add19ee16fd002.webp",
+      "bio": "Indoor plant specialist running a houseplant nursery and a YouTube channel with 200K subscribers."
+    },
+    "whatYoullLearn": [
+      "Match plants to your light and lifestyle",
+      "Buy healthy plants and avoid pests",
+      "Set up a simple weekly care routine",
+      "Spot signs of stress early",
+      "Treat fungus gnats and spider mites",
+      "Propagate plants for free"
+    ],
+    "ratingAverage": 4.8,
+    "studentsCount": 3142,
+    "createdAt": {
+      "$date": "2025-12-31T09:23:29.000Z"
+    },
+    "updatedAt": {
+      "$date": "2026-01-18T09:23:29.000Z"
+    },
+    "feedbacksId": []
+  },
+  {
+    "_id": {
+      "$oid": "68a1c0de1234abcd56700024"
+    },
+    "slug": "composting-at-home-bin-vermi-bokashi",
+    "title": "Composting at Home: Bin, Vermi, Bokashi",
+    "shortDescription": "Compost kitchen scraps in any space using bin, worm, and bokashi methods, with a troubleshooting guide for common smells.",
+    "coverImageUrl": "https://ftp.goit.study/img/skilltenzo/68a1c0de1234abcd56700024.webp",
+    "category": {
+      "$oid": "6659a1000000000000000004"
+    },
+    "level": "Beginner",
+    "language": "English",
+    "durationMinutes": 240,
+    "price": 29,
+    "instructor": {
+      "name": "Maxwell Irving",
+      "avatarUrl": "https://ftp.goit.study/img/harmoniq/users/6881563901add19ee16fd008.webp",
+      "bio": "Permaculture consultant designing edible gardens for homes, schools, and community plots."
+    },
+    "whatYoullLearn": [
+      "Balance greens and browns in any bin",
+      "Set up a worm bin indoors",
+      "Use bokashi for kitchen scraps",
+      "Troubleshoot smells and pests",
+      "Apply finished compost to gardens",
+      "Compost year-round in cold climates"
+    ],
+    "ratingAverage": 4.6,
+    "studentsCount": 1087,
+    "createdAt": {
+      "$date": "2026-04-18T02:36:42.000Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-28T02:36:42.000Z"
+    },
+    "feedbacksId": []
+  },
+  {
+    "_id": {
+      "$oid": "68a1c0de1234abcd56700025"
+    },
+    "slug": "hydroponics-for-home-growers",
+    "title": "Hydroponics for Home Growers",
+    "shortDescription": "Build and run a small hydroponics system at home to grow greens and herbs faster with less water and no soil.",
+    "coverImageUrl": "https://ftp.goit.study/img/skilltenzo/68a1c0de1234abcd56700025.webp",
+    "category": {
+      "$oid": "6659a1000000000000000004"
+    },
+    "level": "Intermediate",
+    "language": "English",
+    "durationMinutes": 420,
+    "price": 79,
+    "instructor": {
+      "name": "Alex Shaw",
+      "avatarUrl": "https://ftp.goit.study/img/harmoniq/users/6881563901add19ee16fcff7.webp",
+      "bio": "Hydroponics enthusiast and engineer who designed three open-source home growing systems."
+    },
+    "whatYoullLearn": [
+      "Pick a hydroponic system for your space",
+      "Mix nutrients to the right strength",
+      "Manage pH and EC consistently",
+      "Grow greens, herbs, and small fruits",
+      "Prevent algae and root disease",
+      "Scale up from one tower to several"
+    ],
+    "ratingAverage": 4.7,
+    "studentsCount": 736,
+    "createdAt": {
+      "$date": "2026-01-26T05:01:18.000Z"
+    },
+    "updatedAt": {
+      "$date": "2026-03-23T05:01:18.000Z"
+    },
+    "feedbacksId": []
+  },
+  {
+    "_id": {
+      "$oid": "68a1c0de1234abcd56700026"
+    },
+    "slug": "edible-landscapes-beautiful-and-productive",
+    "title": "Edible Landscapes: Beautiful and Productive",
+    "shortDescription": "Design a yard that is both gorgeous and edible by combining fruit trees, perennial vegetables, and pollinator flowers.",
+    "coverImageUrl": "https://ftp.goit.study/img/skilltenzo/68a1c0de1234abcd56700026.webp",
+    "category": {
+      "$oid": "6659a1000000000000000004"
+    },
+    "level": "Intermediate",
+    "language": "English",
+    "durationMinutes": 540,
+    "price": 89,
+    "instructor": {
+      "name": "Maxwell Irving",
+      "avatarUrl": "https://ftp.goit.study/img/harmoniq/users/6881563901add19ee16fd008.webp",
+      "bio": "Permaculture consultant designing edible gardens for homes, schools, and community plots."
+    },
+    "whatYoullLearn": [
+      "Design with edible plants as ornamentals",
+      "Pair fruit trees with companion plants",
+      "Build low-maintenance perennial beds",
+      "Plant for pollinators every season",
+      "Phase a yard project over years",
+      "Maintain an edible landscape cleanly"
+    ],
+    "ratingAverage": 4.8,
+    "studentsCount": 612,
+    "createdAt": {
+      "$date": "2026-04-30T15:41:25.000Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-23T15:41:25.000Z"
+    },
+    "feedbacksId": []
+  },
+  {
+    "_id": {
+      "$oid": "68a1c0de1234abcd56700027"
+    },
+    "slug": "caring-for-succulents-and-cacti",
+    "title": "Caring for Succulents and Cacti",
+    "shortDescription": "Keep succulents and cacti looking sculptural and healthy with the right light, water cadence, and soil for arid plants.",
+    "coverImageUrl": "https://ftp.goit.study/img/skilltenzo/68a1c0de1234abcd56700027.webp",
+    "category": {
+      "$oid": "6659a1000000000000000004"
+    },
+    "level": "Beginner",
+    "language": "English",
+    "durationMinutes": 180,
+    "price": 19,
+    "instructor": {
+      "name": "Alexandra Thompson",
+      "avatarUrl": "https://ftp.goit.study/img/harmoniq/users/6881563901add19ee16fd002.webp",
+      "bio": "Indoor plant specialist running a houseplant nursery and a YouTube channel with 200K subscribers."
+    },
+    "whatYoullLearn": [
+      "Choose succulents that suit your home",
+      "Water on a forgiving schedule",
+      "Mix gritty soil for arid plants",
+      "Propagate from leaves and offsets",
+      "Treat etiolation and overwatering",
+      "Style arrangements in pots and gardens"
+    ],
+    "ratingAverage": 4.7,
+    "studentsCount": 2034,
+    "createdAt": {
+      "$date": "2026-01-10T05:18:43.000Z"
+    },
+    "updatedAt": {
+      "$date": "2026-01-22T05:18:43.000Z"
+    },
+    "feedbacksId": []
+  },
+  {
+    "_id": {
+      "$oid": "68a1c0de1234abcd56700028"
+    },
+    "slug": "seed-starting-indoors-a-practical-guide",
+    "title": "Seed Starting Indoors: A Practical Guide",
+    "shortDescription": "Start strong seedlings under lights in your home and transplant them on schedule for a productive growing season.",
+    "coverImageUrl": "https://ftp.goit.study/img/skilltenzo/68a1c0de1234abcd56700028.webp",
+    "category": {
+      "$oid": "6659a1000000000000000004"
+    },
+    "level": "Beginner",
+    "language": "English",
+    "durationMinutes": 300,
+    "price": 39,
+    "instructor": {
+      "name": "Adrian Roman",
+      "avatarUrl": "https://ftp.goit.study/img/harmoniq/users/6881563901add19ee16fd00a.webp",
+      "bio": "Urban gardener and horticulture teacher who turned three apartment balconies into a teaching channel."
+    },
+    "whatYoullLearn": [
+      "Pick seeds for your zone and season",
+      "Set up a simple grow-light shelf",
+      "Sow at the right time and depth",
+      "Water bottom-up to prevent damping off",
+      "Pot up and harden off seedlings",
+      "Transplant without setting growth back"
+    ],
+    "ratingAverage": 4.7,
+    "studentsCount": 1428,
+    "createdAt": {
+      "$date": "2026-02-28T15:05:07.000Z"
+    },
+    "updatedAt": {
+      "$date": "2026-03-04T15:05:07.000Z"
+    },
+    "feedbacksId": []
+  },
+  {
+    "_id": {
+      "$oid": "68a1c0de1234abcd56700029"
+    },
+    "slug": "personal-budgeting-from-zero-to-confident",
+    "title": "Personal Budgeting from Zero to Confident",
+    "shortDescription": "Build a personal budget that fits your life and stick with it for at least six months using simple, repeatable systems.",
+    "coverImageUrl": "https://ftp.goit.study/img/skilltenzo/68a1c0de1234abcd56700029.webp",
+    "category": {
+      "$oid": "6659a1000000000000000005"
+    },
+    "level": "Beginner",
+    "language": "English",
+    "durationMinutes": 300,
+    "price": 39,
+    "instructor": {
+      "name": "Alexander Phillips",
+      "avatarUrl": "https://ftp.goit.study/img/harmoniq/users/6881563901add19ee16fd00d.webp",
+      "bio": "Certified financial planner and personal-finance educator helping families budget for over a decade."
+    },
+    "whatYoullLearn": [
+      "Track income and spending without burning out",
+      "Pick a budgeting method that fits you",
+      "Set realistic monthly category limits",
+      "Build savings into your monthly plan",
+      "Use sinking funds for irregular costs",
+      "Adjust the budget when life changes"
+    ],
+    "ratingAverage": 4.8,
+    "studentsCount": 3847,
+    "createdAt": {
+      "$date": "2025-06-17T19:06:51.000Z"
+    },
+    "updatedAt": {
+      "$date": "2025-07-29T19:06:51.000Z"
+    },
+    "feedbacksId": []
+  },
+  {
+    "_id": {
+      "$oid": "68a1c0de1234abcd5670002a"
+    },
+    "slug": "debt-payoff-strategies-that-actually-work",
+    "title": "Debt Payoff Strategies That Actually Work",
+    "shortDescription": "Pay off credit cards, student loans, and car debt using avalanche, snowball, and consolidation strategies that fit your numbers.",
+    "coverImageUrl": "https://ftp.goit.study/img/skilltenzo/68a1c0de1234abcd5670002a.webp",
+    "category": {
+      "$oid": "6659a1000000000000000005"
+    },
+    "level": "Beginner",
+    "language": "English",
+    "durationMinutes": 360,
+    "price": 59,
+    "instructor": {
+      "name": "Alexander Phillips",
+      "avatarUrl": "https://ftp.goit.study/img/harmoniq/users/6881563901add19ee16fd00d.webp",
+      "bio": "Certified financial planner and personal-finance educator helping families budget for over a decade."
+    },
+    "whatYoullLearn": [
+      "List every debt with rates and minimums",
+      "Pick avalanche or snowball based on your goals",
+      "Decide if consolidation is right for you",
+      "Negotiate lower rates with creditors",
+      "Avoid new debt while paying off old debt",
+      "Track progress without losing motivation"
+    ],
+    "ratingAverage": 4.9,
+    "studentsCount": 2876,
+    "createdAt": {
+      "$date": "2025-08-27T12:09:57.000Z"
+    },
+    "updatedAt": {
+      "$date": "2025-10-15T12:09:57.000Z"
+    },
+    "feedbacksId": []
+  },
+  {
+    "_id": {
+      "$oid": "68a1c0de1234abcd5670002b"
+    },
+    "slug": "investing-basics-stocks-etfs-index-funds",
+    "title": "Investing Basics: Stocks, ETFs, Index Funds",
+    "shortDescription": "Start investing with confidence using low-cost index funds and a long-term plan that survives market ups and downs.",
+    "coverImageUrl": "https://ftp.goit.study/img/skilltenzo/68a1c0de1234abcd5670002b.webp",
+    "category": {
+      "$oid": "6659a1000000000000000005"
+    },
+    "level": "Beginner",
+    "language": "English",
+    "durationMinutes": 480,
+    "price": 89,
+    "instructor": {
+      "name": "Maxwell Graham",
+      "avatarUrl": "https://ftp.goit.study/img/harmoniq/users/6881563901add19ee16fd001.webp",
+      "bio": "Investment educator and former hedge-fund analyst translating markets for everyday savers."
+    },
+    "whatYoullLearn": [
+      "Understand stocks, bonds, and funds",
+      "Pick low-cost index funds and ETFs",
+      "Open and fund a brokerage account",
+      "Build a portfolio for your timeline",
+      "Stay invested during downturns",
+      "Rebalance once a year without stress"
+    ],
+    "ratingAverage": 4.8,
+    "studentsCount": 4214,
+    "createdAt": {
+      "$date": "2025-09-20T09:17:28.000Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-25T09:17:28.000Z"
+    },
+    "feedbacksId": []
+  },
+  {
+    "_id": {
+      "$oid": "68a1c0de1234abcd5670002c"
+    },
+    "slug": "building-your-emergency-fund-the-smart-way",
+    "title": "Building Your Emergency Fund the Smart Way",
+    "shortDescription": "Save three to six months of expenses without sacrificing your life today, using automation, side income, and smart accounts.",
+    "coverImageUrl": "https://ftp.goit.study/img/skilltenzo/68a1c0de1234abcd5670002c.webp",
+    "category": {
+      "$oid": "6659a1000000000000000005"
+    },
+    "level": "Beginner",
+    "language": "English",
+    "durationMinutes": 240,
+    "price": 29,
+    "instructor": {
+      "name": "Maxwell Graham",
+      "avatarUrl": "https://ftp.goit.study/img/harmoniq/users/6881563901add19ee16fd001.webp",
+      "bio": "Investment educator and former hedge-fund analyst translating markets for everyday savers."
+    },
+    "whatYoullLearn": [
+      "Calculate your true monthly expenses",
+      "Set a realistic target and timeline",
+      "Pick the right account for your fund",
+      "Automate savings without thinking",
+      "Find extra cash without lifestyle cuts",
+      "Use the fund without guilt when needed"
+    ],
+    "ratingAverage": 4.7,
+    "studentsCount": 2186,
+    "createdAt": {
+      "$date": "2026-04-28T04:08:20.000Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-12T04:08:20.000Z"
+    },
+    "feedbacksId": []
+  },
+  {
+    "_id": {
+      "$oid": "68a1c0de1234abcd5670002d"
+    },
+    "slug": "tax-filing-essentials-for-freelancers",
+    "title": "Tax Filing Essentials for Freelancers",
+    "shortDescription": "File freelance and self-employed taxes with confidence, including quarterly estimates, deductions, and clean record keeping.",
+    "coverImageUrl": "https://ftp.goit.study/img/skilltenzo/68a1c0de1234abcd5670002d.webp",
+    "category": {
+      "$oid": "6659a1000000000000000005"
+    },
+    "level": "Intermediate",
+    "language": "English",
+    "durationMinutes": 420,
+    "price": 79,
+    "instructor": {
+      "name": "Maximilian Phillips",
+      "avatarUrl": "https://ftp.goit.study/img/harmoniq/users/6881563901add19ee16fd015.webp",
+      "bio": "Tax accountant for freelancers and creators; runs a popular newsletter on side-hustle finance."
+    },
+    "whatYoullLearn": [
+      "Track income and expenses year-round",
+      "Pay quarterly estimated taxes on time",
+      "Claim home office and equipment deductions",
+      "Choose software or a tax professional",
+      "Save the right amount per invoice",
+      "Stay audit-ready with simple records"
+    ],
+    "ratingAverage": 4.7,
+    "studentsCount": 938,
+    "createdAt": {
+      "$date": "2026-05-02T12:12:47.000Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-08T12:12:47.000Z"
+    },
+    "feedbacksId": []
+  },
+  {
+    "_id": {
+      "$oid": "68a1c0de1234abcd5670002e"
+    },
+    "slug": "retirement-planning-in-your-20s-and-30s",
+    "title": "Retirement Planning in Your 20s and 30s",
+    "shortDescription": "Start retirement contributions early using the right accounts and a long-term plan that compounds while you focus on living.",
+    "coverImageUrl": "https://ftp.goit.study/img/skilltenzo/68a1c0de1234abcd5670002e.webp",
+    "category": {
+      "$oid": "6659a1000000000000000005"
+    },
+    "level": "Beginner",
+    "language": "English",
+    "durationMinutes": 360,
+    "price": 59,
+    "instructor": {
+      "name": "Vincent Graham",
+      "avatarUrl": "https://ftp.goit.study/img/harmoniq/users/6881563901add19ee16fcffe.webp",
+      "bio": "Behavioral finance coach and FIRE-movement advocate who reached financial independence at 38."
+    },
+    "whatYoullLearn": [
+      "Pick between 401(k), IRA, and Roth accounts",
+      "Use employer matches to the fullest",
+      "Set a contribution rate you can sustain",
+      "Choose investments for a long horizon",
+      "Project your retirement number realistically",
+      "Adjust your plan as income grows"
+    ],
+    "ratingAverage": 4.8,
+    "studentsCount": 1942,
+    "createdAt": {
+      "$date": "2025-10-25T15:01:59.000Z"
+    },
+    "updatedAt": {
+      "$date": "2025-11-11T15:01:59.000Z"
+    },
+    "feedbacksId": []
+  },
+  {
+    "_id": {
+      "$oid": "68a1c0de1234abcd5670002f"
+    },
+    "slug": "real-estate-investing-for-first-time-buyers",
+    "title": "Real Estate Investing for First-Time Buyers",
+    "shortDescription": "Buy your first investment property with clear numbers, a financing plan, and an honest assessment of cash flow and risk.",
+    "coverImageUrl": "https://ftp.goit.study/img/skilltenzo/68a1c0de1234abcd5670002f.webp",
+    "category": {
+      "$oid": "6659a1000000000000000005"
+    },
+    "level": "Intermediate",
+    "language": "English",
+    "durationMinutes": 600,
+    "price": 129,
+    "instructor": {
+      "name": "Damian Travis",
+      "avatarUrl": "https://ftp.goit.study/img/harmoniq/users/6881563901add19ee16fd00b.webp",
+      "bio": "Real-estate investor and licensed agent specializing in first-time buyers and rental cash flow."
+    },
+    "whatYoullLearn": [
+      "Analyze a rental deal with real numbers",
+      "Pick a market for first investment",
+      "Compare financing options honestly",
+      "Inspect a property without missing red flags",
+      "Manage a property or hire a manager",
+      "Plan cash reserves for unexpected costs"
+    ],
+    "ratingAverage": 4.6,
+    "studentsCount": 826,
+    "createdAt": {
+      "$date": "2025-11-23T02:05:25.000Z"
+    },
+    "updatedAt": {
+      "$date": "2026-01-02T02:05:25.000Z"
+    },
+    "feedbacksId": []
+  },
+  {
+    "_id": {
+      "$oid": "68a1c0de1234abcd56700030"
+    },
+    "slug": "side-hustle-to-steady-income-a-money-plan",
+    "title": "Side Hustle to Steady Income: A Money Plan",
+    "shortDescription": "Turn a side hustle into reliable monthly income with clear pricing, simple bookkeeping, and a tax-aware withdrawal plan.",
+    "coverImageUrl": "https://ftp.goit.study/img/skilltenzo/68a1c0de1234abcd56700030.webp",
+    "category": {
+      "$oid": "6659a1000000000000000005"
+    },
+    "level": "Beginner",
+    "language": "English",
+    "durationMinutes": 360,
+    "price": 59,
+    "instructor": {
+      "name": "Maximilian Phillips",
+      "avatarUrl": "https://ftp.goit.study/img/harmoniq/users/6881563901add19ee16fd015.webp",
+      "bio": "Tax accountant for freelancers and creators; runs a popular newsletter on side-hustle finance."
+    },
+    "whatYoullLearn": [
+      "Price services and products profitably",
+      "Track income and expenses simply",
+      "Separate business and personal finances",
+      "Set aside taxes from every payment",
+      "Decide how much to reinvest each month",
+      "Pay yourself a reliable monthly amount"
+    ],
+    "ratingAverage": 4.7,
+    "studentsCount": 1648,
+    "createdAt": {
+      "$date": "2026-04-19T22:28:21.000Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-12T22:28:21.000Z"
+    },
+    "feedbacksId": []
+  },
+  {
+    "_id": {
+      "$oid": "68a1c0de1234abcd56700031"
+    },
+    "slug": "credit-score-mastery-build-repair-optimize",
+    "title": "Credit Score Mastery: Build, Repair, Optimize",
+    "shortDescription": "Build credit from zero, repair past mistakes, and optimize a strong score for major loans without falling for credit myths.",
+    "coverImageUrl": "https://ftp.goit.study/img/skilltenzo/68a1c0de1234abcd56700031.webp",
+    "category": {
+      "$oid": "6659a1000000000000000005"
+    },
+    "level": "Beginner",
+    "language": "English",
+    "durationMinutes": 300,
+    "price": 49,
+    "instructor": {
+      "name": "Eva Bennett",
+      "avatarUrl": "https://ftp.goit.study/img/harmoniq/users/6881563901add19ee16fcff4.webp",
+      "bio": "Certified credit counselor helping clients rebuild scores and negotiate with creditors for over 9 years."
+    },
+    "whatYoullLearn": [
+      "Read your credit report and dispute errors",
+      "Build credit from no history",
+      "Recover from missed payments and collections",
+      "Use cards without paying interest",
+      "Time applications around big purchases",
+      "Avoid common credit score traps"
+    ],
+    "ratingAverage": 4.8,
+    "studentsCount": 2438,
+    "createdAt": {
+      "$date": "2025-08-02T04:02:45.000Z"
+    },
+    "updatedAt": {
+      "$date": "2025-08-25T04:02:45.000Z"
+    },
+    "feedbacksId": []
+  },
+  {
+    "_id": {
+      "$oid": "68a1c0de1234abcd56700032"
+    },
+    "slug": "financial-independence-the-fire-movement-explained",
+    "title": "Financial Independence: The FIRE Movement Explained",
+    "shortDescription": "Plan a realistic path to financial independence using savings rate, investment growth, and lifestyle choices that fit you.",
+    "coverImageUrl": "https://ftp.goit.study/img/skilltenzo/68a1c0de1234abcd56700032.webp",
+    "category": {
+      "$oid": "6659a1000000000000000005"
+    },
+    "level": "Intermediate",
+    "language": "English",
+    "durationMinutes": 480,
+    "price": 99,
+    "instructor": {
+      "name": "Vincent Graham",
+      "avatarUrl": "https://ftp.goit.study/img/harmoniq/users/6881563901add19ee16fcffe.webp",
+      "bio": "Behavioral finance coach and FIRE-movement advocate who reached financial independence at 38."
+    },
+    "whatYoullLearn": [
+      "Calculate your personal FIRE number",
+      "Raise your savings rate without misery",
+      "Use the 4% rule with eyes open",
+      "Plan for healthcare and taxes in retirement",
+      "Decide between lean, fat, and barista FIRE",
+      "Adjust the plan as life changes"
+    ],
+    "ratingAverage": 4.9,
+    "studentsCount": 1542,
+    "createdAt": {
+      "$date": "2025-10-15T23:21:46.000Z"
+    },
+    "updatedAt": {
+      "$date": "2025-10-28T23:21:46.000Z"
+    },
+    "feedbacksId": []
+  }
+]

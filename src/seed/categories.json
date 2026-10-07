@@ -1,0 +1,42 @@
+[
+  {
+    "_id": { "$oid": "6659a1000000000000000001" },
+    "name": "Creative Writing",
+    "slug": "creative-writing",
+    "subtitle": "Fiction, essays, copy",
+    "createdAt": { "$date": "2026-06-02T00:00:00.000Z" },
+    "updatedAt": { "$date": "2026-06-02T00:00:00.000Z" }
+  },
+  {
+    "_id": { "$oid": "6659a1000000000000000002" },
+    "name": "Audio Production",
+    "slug": "audio-production",
+    "subtitle": "Podcasts, voice, mixing",
+    "createdAt": { "$date": "2026-06-02T00:00:00.000Z" },
+    "updatedAt": { "$date": "2026-06-02T00:00:00.000Z" }
+  },
+  {
+    "_id": { "$oid": "6659a1000000000000000003" },
+    "name": "Crafts",
+    "slug": "crafts",
+    "subtitle": "Pottery, knitting, woodwork",
+    "createdAt": { "$date": "2026-06-02T00:00:00.000Z" },
+    "updatedAt": { "$date": "2026-06-02T00:00:00.000Z" }
+  },
+  {
+    "_id": { "$oid": "6659a1000000000000000004" },
+    "name": "Home Gardening",
+    "slug": "home-gardening",
+    "subtitle": "Balcony, indoor, herbs",
+    "createdAt": { "$date": "2026-06-02T00:00:00.000Z" },
+    "updatedAt": { "$date": "2026-06-02T00:00:00.000Z" }
+  },
+  {
+    "_id": { "$oid": "6659a1000000000000000005" },
+    "name": "Personal Finance",
+    "slug": "personal-finance",
+    "subtitle": "Budgets, savings, taxes",
+    "createdAt": { "$date": "2026-06-02T00:00:00.000Z" },
+    "updatedAt": { "$date": "2026-06-02T00:00:00.000Z" }
+  }
+]
