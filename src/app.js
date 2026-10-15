@@ -9,6 +9,7 @@ const courseRoutes = require("./routes/courseRoutes");
 const cartRoutes = require("./routes/cartRoutes");
 const orderRoutes = require("./routes/orderRoutes");
 const learningRoutes = require("./routes/learningRoutes");
+const userRoutes = require("./routes/userRoutes");
 
 const app = express();
 
@@ -36,6 +37,7 @@ app.use("/api/courses", courseRoutes);
 app.use("/api/cart", cartRoutes);
 app.use("/api/orders", orderRoutes);
 app.use("/api/my-learning", learningRoutes);
+app.use("/api/users", userRoutes);
 
 app.use(errorHandler);
 
